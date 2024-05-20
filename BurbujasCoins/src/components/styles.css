@@ -1,0 +1,14 @@
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    font-size: 12px;
+  }
+  
+  .node {
+    cursor: move;
+  }
+  
+  svg {
+    border: 1px solid #ddd;
+  }
+  

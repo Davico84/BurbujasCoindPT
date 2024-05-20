@@ -1,0 +1,902 @@
+[
+    {
+      "id": "01coin",
+      "symbol": "01coi",
+      "price_change_percentage_24h": 24,
+      "image": "https://dummyimage.com/50x50/000/fff&text=01"
+    },
+    {
+      "id": "0chain",
+      "symbol": "0chai",
+      "price_change_percentage_24h": -93,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0C"
+    },
+    {
+      "id": "0-knowledge-network",
+      "symbol": "0-kno",
+      "price_change_percentage_24h": -20,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0-"
+    },
+    {
+      "id": "0-mee",
+      "symbol": "0-mee",
+      "price_change_percentage_24h": -61,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0-"
+    },
+    {
+      "id": "0vix-protocol",
+      "symbol": "0vix-",
+      "price_change_percentage_24h": 45,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0V"
+    },
+    {
+      "id": "0vm",
+      "symbol": "0vm",
+      "price_change_percentage_24h": 39,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0V"
+    },
+    {
+      "id": "0x",
+      "symbol": "0x",
+      "price_change_percentage_24h": -74,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0x0-ai-ai-smart-contract",
+      "symbol": "0x0-a",
+      "price_change_percentage_24h": -25,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0x404",
+      "symbol": "0x404",
+      "price_change_percentage_24h": -67,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xaiswap",
+      "symbol": "0xais",
+      "price_change_percentage_24h": 3,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xanon",
+      "symbol": "0xano",
+      "price_change_percentage_24h": 60,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xbet",
+      "symbol": "0xbet",
+      "price_change_percentage_24h": 39,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xblack",
+      "symbol": "0xbla",
+      "price_change_percentage_24h": 16,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xcoco",
+      "symbol": "0xcoc",
+      "price_change_percentage_24h": -62,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xconnect",
+      "symbol": "0xcon",
+      "price_change_percentage_24h": -10,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xdao",
+      "symbol": "0xdao",
+      "price_change_percentage_24h": -59,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xdefcafe",
+      "symbol": "0xdef",
+      "price_change_percentage_24h": 75,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xengage",
+      "symbol": "0xeng",
+      "price_change_percentage_24h": 12,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xfair",
+      "symbol": "0xfai",
+      "price_change_percentage_24h": 94,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xgambit",
+      "symbol": "0xgam",
+      "price_change_percentage_24h": -99,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xgasless-2",
+      "symbol": "0xgas",
+      "price_change_percentage_24h": 45,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xgpu-ai",
+      "symbol": "0xgpu",
+      "price_change_percentage_24h": -50,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0x-leverage",
+      "symbol": "0x-le",
+      "price_change_percentage_24h": -55,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xliquidity",
+      "symbol": "0xliq",
+      "price_change_percentage_24h": 26,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xlsd",
+      "symbol": "0xlsd",
+      "price_change_percentage_24h": -8,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xmonero",
+      "symbol": "0xmon",
+      "price_change_percentage_24h": -49,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xnude",
+      "symbol": "0xnud",
+      "price_change_percentage_24h": -55,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xnumber",
+      "symbol": "0xnum",
+      "price_change_percentage_24h": 86,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xos-ai",
+      "symbol": "0xos-",
+      "price_change_percentage_24h": -82,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xs",
+      "symbol": "0xs",
+      "price_change_percentage_24h": 5,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xscans",
+      "symbol": "0xsca",
+      "price_change_percentage_24h": -65,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xsnipeproai",
+      "symbol": "0xsni",
+      "price_change_percentage_24h": 74,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xtools",
+      "symbol": "0xtoo",
+      "price_change_percentage_24h": 24,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xvault",
+      "symbol": "0xvau",
+      "price_change_percentage_24h": -49,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "0xvpn-org",
+      "symbol": "0xvpn",
+      "price_change_percentage_24h": -25,
+      "image": "https://dummyimage.com/50x50/000/fff&text=0X"
+    },
+    {
+      "id": "1000bonk",
+      "symbol": "1000b",
+      "price_change_percentage_24h": 19,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "1000btt",
+      "symbol": "1000b",
+      "price_change_percentage_24h": -65,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "1000rats",
+      "symbol": "1000r",
+      "price_change_percentage_24h": -68,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "1000sats-ordinals",
+      "symbol": "1000s",
+      "price_change_percentage_24h": -52,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "1000shib",
+      "symbol": "1000s",
+      "price_change_percentage_24h": 12,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "1000troll",
+      "symbol": "1000t",
+      "price_change_percentage_24h": -100,
+      "image": "https://dummyimage.com/50x50/000/fff&text=10"
+    },
+    {
+      "id": "16dao",
+      "symbol": "16dao",
+      "price_change_percentage_24h": 100,
+      "image": "https://dummyimage.com/50x50/000/fff&text=16"
+    },
+    {
+      "id": "1art",
+      "symbol": "1art",
+      "price_change_percentage_24h": -73,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1A"
+    },
+    {
+      "id": "1ex",
+      "symbol": "1ex",
+      "price_change_percentage_24h": 93,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1E"
+    },
+    {
+      "id": "1hive-water",
+      "symbol": "1hive",
+      "price_change_percentage_24h": 52,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1H"
+    },
+    {
+      "id": "1inch",
+      "symbol": "1inch",
+      "price_change_percentage_24h": -80,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1I"
+    },
+    {
+      "id": "1inch-yvault",
+      "symbol": "1inch",
+      "price_change_percentage_24h": 20,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1I"
+    },
+    {
+      "id": "1intro",
+      "symbol": "1intr",
+      "price_change_percentage_24h": -44,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1I"
+    },
+    {
+      "id": "1long",
+      "symbol": "1long",
+      "price_change_percentage_24h": 76,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1L"
+    },
+    {
+      "id": "1million-nfts",
+      "symbol": "1mill",
+      "price_change_percentage_24h": -35,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1M"
+    },
+    {
+      "id": "1minbet",
+      "symbol": "1minb",
+      "price_change_percentage_24h": 46,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1M"
+    },
+    {
+      "id": "1move token",
+      "symbol": "1move",
+      "price_change_percentage_24h": -17,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1M"
+    },
+    {
+      "id": "1reward-token",
+      "symbol": "1rewa",
+      "price_change_percentage_24h": 65,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1R"
+    },
+    {
+      "id": "1safu",
+      "symbol": "1safu",
+      "price_change_percentage_24h": -92,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1S"
+    },
+    {
+      "id": "1sol",
+      "symbol": "1sol",
+      "price_change_percentage_24h": -57,
+      "image": "https://dummyimage.com/50x50/000/fff&text=1S"
+    },
+    {
+      "id": "-2",
+      "symbol": "-2",
+      "price_change_percentage_24h": -27,
+      "image": "https://dummyimage.com/50x50/000/fff&text=-2"
+    },
+    {
+      "id": "2024",
+      "symbol": "2024",
+      "price_change_percentage_24h": 45,
+      "image": "https://dummyimage.com/50x50/000/fff&text=20"
+    },
+    {
+      "id": "2024pump",
+      "symbol": "2024p",
+      "price_change_percentage_24h": -90,
+      "image": "https://dummyimage.com/50x50/000/fff&text=20"
+    },
+    {
+      "id": "2080",
+      "symbol": "2080",
+      "price_change_percentage_24h": -75,
+      "image": "https://dummyimage.com/50x50/000/fff&text=20"
+    },
+    {
+      "id": "20weth-80bal",
+      "symbol": "20wet",
+      "price_change_percentage_24h": -2,
+      "image": "https://dummyimage.com/50x50/000/fff&text=20"
+    },
+    {
+      "id": "21million",
+      "symbol": "21mil",
+      "price_change_percentage_24h": -35,
+      "image": "https://dummyimage.com/50x50/000/fff&text=21"
+    },
+    {
+      "id": "21x",
+      "symbol": "21x",
+      "price_change_percentage_24h": 49,
+      "image": "https://dummyimage.com/50x50/000/fff&text=21"
+    },
+    {
+      "id": "28vck",
+      "symbol": "28vck",
+      "price_change_percentage_24h": 9,
+      "image": "https://dummyimage.com/50x50/000/fff&text=28"
+    },
+    {
+      "id": "2acoin",
+      "symbol": "2acoi",
+      "price_change_percentage_24h": 98,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2A"
+    },
+    {
+      "id": "2dai-io",
+      "symbol": "2dai-",
+      "price_change_percentage_24h": 100,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2D"
+    },
+    {
+      "id": "2fai",
+      "symbol": "2fai",
+      "price_change_percentage_24h": -100,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2F"
+    },
+    {
+      "id": "2g-carbon-coin",
+      "symbol": "2g-ca",
+      "price_change_percentage_24h": 81,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2G"
+    },
+    {
+      "id": "2moon",
+      "symbol": "2moon",
+      "price_change_percentage_24h": 94,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2M"
+    },
+    {
+      "id": "2omb-finance",
+      "symbol": "2omb-",
+      "price_change_percentage_24h": 43,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2O"
+    },
+    {
+      "id": "2share",
+      "symbol": "2shar",
+      "price_change_percentage_24h": 59,
+      "image": "https://dummyimage.com/50x50/000/fff&text=2S"
+    },
+    {
+      "id": "-3",
+      "symbol": "-3",
+      "price_change_percentage_24h": -21,
+      "image": "https://dummyimage.com/50x50/000/fff&text=-3"
+    },
+    {
+      "id": "300fit",
+      "symbol": "300fi",
+      "price_change_percentage_24h": 96,
+      "image": "https://dummyimage.com/50x50/000/fff&text=30"
+    },
+    {
+      "id": "3a-lending-protocol",
+      "symbol": "3a-le",
+      "price_change_percentage_24h": -12,
+      "image": "https://dummyimage.com/50x50/000/fff&text=3A"
+    },
+    {
+      "id": "3d3d",
+      "symbol": "3d3d",
+      "price_change_percentage_24h": -55,
+      "image": "https://dummyimage.com/50x50/000/fff&text=3D"
+    },
+    {
+      "id": "3dpass",
+      "symbol": "3dpas",
+      "price_change_percentage_24h": 86,
+      "image": "https://dummyimage.com/50x50/000/fff&text=3D"
+    },
+    {
+      "id": "3-kingdoms-multiverse",
+      "symbol": "3-kin",
+      "price_change_percentage_24h": 29,
+      "image": "https://dummyimage.com/50x50/000/fff&text=3-"
+    },
+    {
+      "id": "3space-art",
+      "symbol": "3spac",
+      "price_change_percentage_24h": -72,
+      "image": "https://dummyimage.com/50x50/000/fff&text=3S"
+    },
+    {
+      "id": "404aliens",
+      "symbol": "404al",
+      "price_change_percentage_24h": 44,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "404-bakery",
+      "symbol": "404-b",
+      "price_change_percentage_24h": -95,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "404blocks",
+      "symbol": "404bl",
+      "price_change_percentage_24h": 89,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "404ver",
+      "symbol": "404ve",
+      "price_change_percentage_24h": 57,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "404wheels",
+      "symbol": "404wh",
+      "price_change_percentage_24h": 60,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "4096",
+      "symbol": "4096",
+      "price_change_percentage_24h": 53,
+      "image": "https://dummyimage.com/50x50/000/fff&text=40"
+    },
+    {
+      "id": "42-coin",
+      "symbol": "42-co",
+      "price_change_percentage_24h": -55,
+      "image": "https://dummyimage.com/50x50/000/fff&text=42"
+    },
+    {
+      "id": "4chan",
+      "symbol": "4chan",
+      "price_change_percentage_24h": 48,
+      "image": "https://dummyimage.com/50x50/000/fff&text=4C"
+    },
+    {
+      "id": "4dcoin",
+      "symbol": "4dcoi",
+      "price_change_percentage_24h": 63,
+      "image": "https://dummyimage.com/50x50/000/fff&text=4D"
+    },
+    {
+      "id": "4d-twin-maps-2",
+      "symbol": "4d-tw",
+      "price_change_percentage_24h": 57,
+      "image": "https://dummyimage.com/50x50/000/fff&text=4D"
+    },
+    {
+      "id": "4int",
+      "symbol": "4int",
+      "price_change_percentage_24h": 1,
+      "image": "https://dummyimage.com/50x50/000/fff&text=4I"
+    },
+    {
+      "id": "4-next-unicorn",
+      "symbol": "4-nex",
+      "price_change_percentage_24h": 63,
+      "image": "https://dummyimage.com/50x50/000/fff&text=4-"
+    },
+    {
+      "id": "50cal",
+      "symbol": "50cal",
+      "price_change_percentage_24h": -41,
+      "image": "https://dummyimage.com/50x50/000/fff&text=50"
+    },
+    {
+      "id": "50cent",
+      "symbol": "50cen",
+      "price_change_percentage_24h": -81,
+      "image": "https://dummyimage.com/50x50/000/fff&text=50"
+    },
+    {
+      "id": "5g-cash",
+      "symbol": "5g-ca",
+      "price_change_percentage_24h": -32,
+      "image": "https://dummyimage.com/50x50/000/fff&text=5G"
+    },
+    {
+      "id": "5ire",
+      "symbol": "5ire",
+      "price_change_percentage_24h": -43,
+      "image": "https://dummyimage.com/50x50/000/fff&text=5I"
+    },
+    {
+      "id": "5mc",
+      "symbol": "5mc",
+      "price_change_percentage_24h": 0,
+      "image": "https://dummyimage.com/50x50/000/fff&text=5M"
+    },
+    {
+      "id": "69420",
+      "symbol": "69420",
+      "price_change_percentage_24h": -68,
+      "image": "https://dummyimage.com/50x50/000/fff&text=69"
+    },
+    {
+      "id": "777",
+      "symbol": "777",
+      "price_change_percentage_24h": 51,
+      "image": "https://dummyimage.com/50x50/000/fff&text=77"
+    },
+    {
+      "id": "888tron",
+      "symbol": "888tr",
+      "price_change_percentage_24h": -72,
+      "image": "https://dummyimage.com/50x50/000/fff&text=88"
+    },
+    {
+      "id": "88mph",
+      "symbol": "88mph",
+      "price_change_percentage_24h": 68,
+      "image": "https://dummyimage.com/50x50/000/fff&text=88"
+    },
+    {
+      "id": "8bit-chain",
+      "symbol": "8bit-",
+      "price_change_percentage_24h": 68,
+      "image": "https://dummyimage.com/50x50/000/fff&text=8B"
+    },
+    {
+      "id": "8bitearn",
+      "symbol": "8bite",
+      "price_change_percentage_24h": -45,
+      "image": "https://dummyimage.com/50x50/000/fff&text=8B"
+    },
+    {
+      "id": "8pay",
+      "symbol": "8pay",
+      "price_change_percentage_24h": 21,
+      "image": "https://dummyimage.com/50x50/000/fff&text=8P"
+    },
+    {
+      "id": "90s-crypto-exchange",
+      "symbol": "90s-c",
+      "price_change_percentage_24h": -55,
+      "image": "https://dummyimage.com/50x50/000/fff&text=90"
+    },
+    {
+      "id": "99starz",
+      "symbol": "99sta",
+      "price_change_percentage_24h": -12,
+      "image": "https://dummyimage.com/50x50/000/fff&text=99"
+    },
+    {
+      "id": "9inch",
+      "symbol": "9inch",
+      "price_change_percentage_24h": 35,
+      "image": "https://dummyimage.com/50x50/000/fff&text=9I"
+    },
+    {
+      "id": "9to5io",
+      "symbol": "9to5i",
+      "price_change_percentage_24h": -28,
+      "image": "https://dummyimage.com/50x50/000/fff&text=9T"
+    },
+    {
+      "id": "a3s",
+      "symbol": "a3s",
+      "price_change_percentage_24h": -11,
+      "image": "https://dummyimage.com/50x50/000/fff&text=A3"
+    },
+    {
+      "id": "a4-finance",
+      "symbol": "a4-fi",
+      "price_change_percentage_24h": 25,
+      "image": "https://dummyimage.com/50x50/000/fff&text=A4"
+    },
+    {
+      "id": "a51-finance",
+      "symbol": "a51-f",
+      "price_change_percentage_24h": 67,
+      "image": "https://dummyimage.com/50x50/000/fff&text=A5"
+    },
+    {
+      "id": "aada-finance",
+      "symbol": "aada-",
+      "price_change_percentage_24h": -70,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aag-ventures",
+      "symbol": "aag-v",
+      "price_change_percentage_24h": 44,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aardvark-2",
+      "symbol": "aardv",
+      "price_change_percentage_24h": 42,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aark-digital",
+      "symbol": "aark-",
+      "price_change_percentage_24h": -58,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aarma",
+      "symbol": "aarma",
+      "price_change_percentage_24h": -38,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aastoken",
+      "symbol": "aasto",
+      "price_change_percentage_24h": 15,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave",
+      "symbol": "aave",
+      "price_change_percentage_24h": 6,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-aave",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 99,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-bptbalweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -95,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-bptwbtcweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -11,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-dai",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 91,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniaaveweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 66,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unibatweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 66,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unicrvweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 24,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unidaiusdc",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -82,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unidaiweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 85,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unilinkweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -76,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unimkrweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -4,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unirenweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 92,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-unisnxweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -63,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniuniweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -66,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniusdcweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 22,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniwbtcusdc",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 72,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniwbtcweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 22,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-uniyfiweth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -50,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-usdc",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 86,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-usdt",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 79,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-wbtc",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 85,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-amm-weth",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -75,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-bal",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 15,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-balancer-pool-token",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 45,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-bat",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -66,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-bat-v1",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 95,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-busd",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 28,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-busd-v1",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 50,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-crv",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -70,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-dai",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 14,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-dai-v1",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -81,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-enj",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 20,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-enj-v1",
+      "symbol": "aave-",
+      "price_change_percentage_24h": -40,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aave-eth-v1",
+      "symbol": "aave-",
+      "price_change_percentage_24h": 54,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    },
+    {
+      "id": "aavegotchi",
+      "symbol": "aaveg",
+      "price_change_percentage_24h": -56,
+      "image": "https://dummyimage.com/50x50/000/fff&text=AA"
+    }
+  ]
