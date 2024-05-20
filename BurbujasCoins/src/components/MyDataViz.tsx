@@ -11,7 +11,7 @@ const BubbleChart: React.FC = () => {
     // Eliminar cualquier elemento SVG existente antes de crear uno nuevo
     d3.select(ref.current).selectAll("*").remove();
 
-    const width = 900;
+    const width = 800;
     const height = 600;
 
     // Filtrar datos
@@ -48,6 +48,7 @@ const BubbleChart: React.FC = () => {
       .style("fill-opacity", 0.6)
       .attr("stroke", color)
       .style("stroke-width", 3)
+      .style("cursor", "pointer")
       .on("mouseover", function (event, d) {
         d3.select(this)
           .style("filter", "drop-shadow(0 0 10px black)");

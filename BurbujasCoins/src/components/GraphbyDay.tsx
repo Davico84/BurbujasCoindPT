@@ -57,7 +57,7 @@ console.log(`https://api.coingecko.com/api/v3/coins/${id}/market_chart?vs_curren
           labels: labels,
           datasets: [
             {
-              label: `Precio de ${currency} (USD)`,
+              label: `Precio de ${id} (USD)`,
               data: data,
               borderColor: "#FF3A33",
               backgroundColor: "rgba(255, 58, 51, 0.4)", // Utiliza el gradiente aquí
@@ -73,7 +73,7 @@ console.log(`https://api.coingecko.com/api/v3/coins/${id}/market_chart?vs_curren
       .catch((error) => {
         console.error("Error fetching data:", error);
       });
-  }, [currency]);
+  }, [id]);
 
   return (
     <div className="container mx-auto box-sizing: border-box bg-slate-100 rounded">
